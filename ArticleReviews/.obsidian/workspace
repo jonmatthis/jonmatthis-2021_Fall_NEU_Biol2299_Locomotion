@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "3f29129c5ef00dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee9639c0942e0aae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wolf Movement on Human-Created Linear Features.md.md",
+            "mode": "source"
+          }
+        },
+        "group": "0a4b16f9f464f75f"
+      },
+      {
+        "id": "80249eb2b2af0e94",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wolf Movement on Human-Created Linear Features.md.md",
+            "mode": "preview"
+          }
+        },
+        "group": "0a4b16f9f464f75f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51ce17225196c3e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8fd38cbd0ea208c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2966e5bd2dea74b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9c7241ce44dd756",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d04c264df4615b1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c47ba713e30e748c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc1dbe694237c046",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wolf Movement on Human-Created Linear Features.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ee9639c0942e0aae",
+  "lastOpenFiles": [
+    "Wolf Movement on Human-Created Linear Features.md.md",
+    "Turtle locomotion.md",
+    "snakelocomotion.md",
+    "snake lizards.md",
+    "Sloth Article Review.md",
+    "Setogawa et al (2015) - Scientific Reports - Alzheimer's Mouse.md",
+    "Robotic Snake Locomotion.md",
+    "postersummarysloth.md",
+    "Poster Proposal 1.md",
+    "Pontzer et al (2014) - Journal of Human Evolution - Bipedal and Quadrupedal Locomotion in Chimpanzees.md"
+  ]
+}

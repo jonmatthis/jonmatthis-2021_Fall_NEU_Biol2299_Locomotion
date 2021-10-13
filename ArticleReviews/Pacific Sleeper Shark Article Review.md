@@ -4,7 +4,7 @@ Fujiwara, Y., Matsumoto, Y., Sato, T., Kawato, M., & Tsuchida, S. (2021). First 
 
 ### Summary
 
-The authors were interested in the [[speed]] of the [[Pacific Sleeper Shark]]. They conducted this experiment in the Suruga Bay, making this a [[natural envirnomnet]] for the Pacific Sleeper Shark. They observed one female of the species using two [[baited camera]]s. The distance between the cameras was 436 meters and the speed was recorded 2 times from one end to the other. 
+The authors were interested in the [[speed]] of the [[Pacific Sleeper Shark]]. They conducted this experiment in the Suruga Bay, making this a [[natural envirnomnet]] for the Pacific Sleeper [[Shark]]. They observed one female of the species using two [[baited camera]]s. The distance between the [[cameras]] was 436 meters and the speed was recorded 2 times from one end to the other. 
 
 ##### Keywords
 #PacificSleeperShark

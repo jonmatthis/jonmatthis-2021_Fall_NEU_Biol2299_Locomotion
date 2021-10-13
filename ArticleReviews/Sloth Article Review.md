@@ -4,7 +4,7 @@
 
 ### Summary 
 
-The authors were interested in the [[locomotion]] of the two-toed sloth. There was used detailed [[videoradiographic]] analysis of various aspects of the two-toed sloth's locomotion including: [[spatio-temperal]] gait parameters, data on [[interlimb coordination]], and [[limb kinematics]]. The two-toed sloth showed great variation in spatio-temporal gait parameters over the observed range in [[speed]]. In contrast, limb kinematics were observed as 'normal'.
+The authors were interested in the [[locomotion]] of the two-toed sloth. There was used detailed [[videoradiographic]] analysis of various aspects of the two-toed sloth's locomotion including: [[spatio-temperal]] gait parameters, data on [[interlimb coordination]], and [[limb kinematics]]. The two-toed sloth showed great variation in spatio-temporal [[gait]] parameters over the observed range in [[speed]]. In contrast, [[limb]] kinematics were observed as 'normal'.
 
 
 ##### Keywords

@@ -9,6 +9,7 @@ The paper is about how scientists created a [[robotic]] snake. It talks about th
 #ded7cf 
 #### keywords
 #Robotic
+#robot
 #Capacity of Movement
 #Locomotion 
 #New movement

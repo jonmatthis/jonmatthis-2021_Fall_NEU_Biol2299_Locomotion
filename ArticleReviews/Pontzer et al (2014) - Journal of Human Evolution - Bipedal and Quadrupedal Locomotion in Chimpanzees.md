@@ -3,7 +3,7 @@ Pontzer, H., Raichlen, D. A., & Rodman, P. S. (2014). Bipedal and quadrupedal lo
 
 ### Summary:
 
-A comparison of bipedal and quadrupedal locomotion in chimpanzees. 
+A comparison of [[bipedal]] and [[quadrupedal]] [[locomotion]] in [[chimpanzees]]. 
 
 #89815e 
 #339e17 
