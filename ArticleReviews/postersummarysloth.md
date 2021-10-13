@@ -9,3 +9,6 @@ Researchers found that [[Two-toed sloths]] have a large range of speeds in their
 #4577ee
 
 #sloths
+#Mammals 
+#movement 
+#kinematics 
