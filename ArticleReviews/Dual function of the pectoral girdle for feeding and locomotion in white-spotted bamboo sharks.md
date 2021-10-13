@@ -7,8 +7,10 @@ This paper shows how the [[white-spotted bamboo sharks]] use their [[pectoral fi
 #68cd5a
 
 ##### keywords
-shark
-pectoral fin
-feed
-move
+#shark 
+#pectoral fin
+#feed
+#move
+#swimming
+#water 
 
