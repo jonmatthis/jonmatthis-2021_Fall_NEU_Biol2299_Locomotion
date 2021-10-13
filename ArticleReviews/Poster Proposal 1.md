@@ -6,11 +6,13 @@ Ophiocordyceps pseudolloydii [[fungus]] species were found to infect  Dolichoder
 
 ### Keywords:
 - #Ophiocordyceps pseudolloydii #fungus
-- Dolichoderus thoracicus #ants
+- #Dolichoderus-thoracicus 
+- #ants
 - #Taiwan
 - #parasites
-- abnormally
-- orientation
+- #abnormally
+- #fungus 
+- #orientation
 - #movement
 
 ### ID: 633f28
