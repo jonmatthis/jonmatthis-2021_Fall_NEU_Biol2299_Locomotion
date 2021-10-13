@@ -11,8 +11,9 @@ Ischer, T., Ireland, K., & Booth, D. T. (2009). Locomotion performance of green 
 The paper is about how " [[**nest**]] " temperature effects the performance of baby green [[**turtles**]]. The paper tested their [[**swimming**]], and crawling performance by measuring the rate of strokes, and mean speed. This is all in the hopes of figuring out if [[nest]] temperature could have an effect on a [[baby]] green [[turtle]]'s [[**survival rate**]].
 
 #nest
-#swmming
+#swimming
 #survivalrate
 #turtles
 #crawling
 #controlled experiment 
+#reptile 
